@@ -1,6 +1,25 @@
+Available Scripts
 
+In the project directory, you can run:
 
-Project aimed to develop a Real-time data transfer between persons using node.js for backend, front end react.js    and socket.io for enables real time communication between web clients and server.
+npm start
 
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
 
-Concepts of send and receive messages using web sockets and socket.io to make real time application.
+The page will reload if you make edits.
+You will also see any lint errors in the console.
+
+npm test
+
+Launches the test runner in the interactive watch mode.
+See the section about running tests for more information.
+
+npm run build
+
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.
+Your app is ready to be deployed!
+
